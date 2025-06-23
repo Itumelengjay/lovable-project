@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.voltbuilder.sample" xmlns="http://www.w3.org/ns/widgets" version="1.0.0">
+  <name>VibeSync</name>
+  <description>VibeSync is a social media app.</description>
+  <plugin name="cordova-plugin-device" />
+  <access origin="*" />
+</widget>
